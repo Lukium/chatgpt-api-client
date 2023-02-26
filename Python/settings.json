@@ -1,0 +1,15 @@
+{
+    "general": {
+        "terminal_name": "Lukium-ChatGPT-Client",
+        "http_status_check_timeout": 5
+    },
+    "chatgpt": {
+        "api_key_length": 32,
+        "api_base_url": "https://chatgpt.lukium.ai/api",
+        "endpoints": {
+            "chat": "/chat",
+            "recall": "/recall",
+            "add_user": "/admin/add-user"
+        }
+    }
+}
