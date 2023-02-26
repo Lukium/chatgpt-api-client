@@ -5,7 +5,7 @@
     },
     "chatgpt": {
         "api_key_length": 32,
-        "api_base_url": "https://chatgpt.lukium.ai/api",
+        "api_base_url": "127.0.0.1:5000",
         "endpoints": {
             "chat": "/chat",
             "recall": "/recall",
